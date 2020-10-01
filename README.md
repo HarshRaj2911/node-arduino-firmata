@@ -26,8 +26,6 @@ Requirements
     * Arduino Leonardo
     * Arduino Micro
     * Seeduino v2
-* Arduino Standard Firmata v2.2
-  * Arduino IDE -> [File] -> [Examples] -> [Firmata] -> [StandardFirmata]
 
 
 Usage
